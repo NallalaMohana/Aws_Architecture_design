@@ -1,4 +1,4 @@
-**Real-Time Small-Scale Mart Application Architecture**
+# Real-Time Small-Scale Mart Application Architecture
 
 ***Overview***
 
