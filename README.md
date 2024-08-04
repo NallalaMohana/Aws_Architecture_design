@@ -7,7 +7,6 @@ Designed an architecture for a real-time mart application using AWS services to 
 ***Key AWS Services***
 
 VPC: Create isolated networks for resources.
-
 EC2: Launch instances with AMI for data management.
 
 S3: Store and version data across zones.
